@@ -1,4 +1,4 @@
-# Building the AI-Native Blockchain: How Nexus is Connecting AI Agents to Web3
+# MCP Server Support on Nexus: How Nexus is Connecting AI Agents to Web3
 
 *Daniel Marin, Founder & CEO of Nexus*
 
