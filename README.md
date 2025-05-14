@@ -195,6 +195,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Connect with Nexus
 
 - **Website**: [nexus.xyz](https://nexus.xyz)
-- **Twitter**: [@nexus_xyz](https://twitter.com/nexus_xyz)
-- **Discord**: [Join our community](https://discord.gg/nexus)
-- **GitHub**: [Nexus](https://github.com/nexus) 
+- **Twitter**: [@nexus_xyz](https://twitter.com/nexus-xyz)
+- **Discord**: [Join our community](https://discord.gg/nexus-xyz)
+- **GitHub**: [Nexus](https://github.com/nexus-xyz) 

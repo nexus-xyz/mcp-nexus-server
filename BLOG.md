@@ -297,4 +297,4 @@ Together, we can build the foundation for a more intelligent, accessible, and ef
 
 ---
 
-If you'd like to learn more or get involved, visit us at [nexus.xyz](https://nexus.xyz) or join our [Discord community](https://discord.gg/nexus). 
+If you'd like to learn more or get involved, visit us at [nexus.xyz](https://nexus.xyz) or join our [Discord community](https://discord.gg/nexus-xyz). 
